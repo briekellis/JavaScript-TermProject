@@ -20,6 +20,11 @@
                                 <li><a href="#">Game 1</a></li> 
                             </ul>
                         </li>
+                        <li><a href='#'>2</a>
+                            <ul>
+                                <li><a href="#">Game 2</a></li> 
+                            </ul>
+                        </li>
                     </ul> 
                 </nav>
             </section>
